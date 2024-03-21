@@ -6,4 +6,6 @@ Password Reset Task
  this task server is deployed in render.com i given a link
  https://password-reset-back-end-74cu.onrender.com
 
+ https://password-reset-back-end-74cu.onrender.com/user/
+
  front end is also deployed in netlify 
